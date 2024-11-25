@@ -1,1 +1,1 @@
-# cert-html-css-and-javascript-for-web-developers-specialization
+# HTML, CSS, and Javascript for Web Developers Specialization
