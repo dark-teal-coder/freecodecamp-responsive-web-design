@@ -1,29 +1,21 @@
 <!-- README file for freeCodeCamp -->
 
-# freeCodeCamp Data Analysis with Python Certification
+# freeCodeCamp Responsive Web Design Certification
 
-Certification: [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python)
+Certification: [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ## Certification Description
 
-Data Analysis has been around for a long time. But up until a few years ago, developers practiced it using expensive, closed-source tools like Tableau. But recently, Python, SQL, and other open libraries have changed Data Analysis forever.
+In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
 
-In the Data Analysis with Python Certification, you'll learn the fundamentals of data analysis with Python. By the end of this certification, you'll know how to read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
+First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
 
-## Course List
-
-1. Data Analysis with Python
-2. Numpy
-3. Data Analysis with Python Projects
+Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
 ## Repository Description
 
-This repository contains code from reading or video tutorial format discussed in the lessons or courses in this certification. Some instructors may provide their source code files hosted on GitHub or links to download the source code from the course website directly. However, it is usually scattered all over the courses. Therefore, it has been recompised in the general order presented in the course but with some additional materials and explanations.
+xxx
 
 ## Projects List
 
-- Mean-Variance-Standard Deviation Calculator
-- Demographic Data Analyzer
-- Medical Data Visualizer
-- Page View Time Series Visualizer
-- Sea Level Predictor
+- 
