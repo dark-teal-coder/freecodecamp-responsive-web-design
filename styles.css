@@ -31,6 +31,7 @@ h1, p {
 
 input.center, select, textarea {
     width: 100%;
+    min-height: 2em;
 }
 
 #submit {
