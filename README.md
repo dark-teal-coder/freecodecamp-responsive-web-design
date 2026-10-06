@@ -6,11 +6,13 @@ Certification: [Responsive Web Design](https://www.freecodecamp.org/learn/2022/r
 
 ## Certification Description
 
-In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+This course teaches the fundamentals of HTML and CSS, including modern layout, design, accessibility, and responsive web development. You'll build practical projects and gain the skills to create professional, user-friendly webpages.
 
-First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
+To earn your Responsive Web Design Certification:
 
-Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
+- Complete the five required projects to qualify for the certification exam.
+
+- Pass the Responsive Web Design Certification exam.
 
 ## Repository Description
 
