@@ -19,7 +19,7 @@ xxx
 ## Projects List
 
 - Survey Form
-- Tribute Page
+- Page of Playing Cards
+- Book Inventory App
 - Technical Documentation Page
 - Product Landing Page
-- Personal Portfolio Webpage
